@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Killer8Hyper
 - 👀 I’m interested in typing, watching videos and playing games.
 - 🌱 I’m currently learning some programming languages...
-- 💞️ I’m looking to collaborate on ... (not for now)
 - 📫 How to reach me ... you can contact via my gmail.com account: jave.a.bantilan@gmail.com
 
 <!---
